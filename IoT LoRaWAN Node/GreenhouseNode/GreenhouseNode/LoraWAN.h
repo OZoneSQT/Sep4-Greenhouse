@@ -6,8 +6,8 @@
 #include <lora_driver.h>
 #include <status_leds.h>
 
-#define LORA_appEUI "2BBE8F09765BBF4B"
-#define LORA_appKEY "5F83717BC67B4646E3F00DC5EC3417DC"
+#define LORA_appEUI "MyEuiKey"
+#define LORA_appKEY "MyAppKey"
 #define LORA_TIMEOUT_5MIN 300000UL
 #define LORA_MAX_CONNECTION_RETRIES 10
 #define LORA_MAX_BUFFER_SIZE 20
