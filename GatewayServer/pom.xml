@@ -72,7 +72,9 @@
         <dependency>
             <groupId>com.google.guava</groupId>
             <artifactId>guava</artifactId>
-            <version>29.0-jre</version>
+            <version>32.1.2-jre</version>
+            <!-- Updated due to known Known security vulnerabilities -->
+            <!-- <version>29.0-jre</version> -->
         </dependency>
         <dependency>
             <groupId>commons-codec</groupId>
